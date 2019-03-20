@@ -80,3 +80,4 @@ spring.mvc.view.suffix = .jsp
 spring.mvc.static-path-pattern = /**
 
 You are all setup to run the project. Right click on the project and select runas and then select the springbootapplication option.
+==========================================================================
