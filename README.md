@@ -64,7 +64,8 @@ Go to the application.properties file in the project files and change the follow
 server.port = 8090
 server.servlet.context-path = /system
 
-=========change the below lines after the "="sign in your application.properties file.==================
+//change the below lines after the "=" sign in your application.properties file.
+==========================================================================
 
 spring.datasource.url = jdbc:sqlserver://localhost:1433
 spring.datasource.username = SA
